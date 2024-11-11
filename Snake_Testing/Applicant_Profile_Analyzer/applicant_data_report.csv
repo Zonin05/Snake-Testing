@@ -1,0 +1,11 @@
+Applicant_ID,Age,Income,Loan_Amount,Employment_Status,Credit_History_Score,Income_Category,Debt_to_Income_Ratio,Credit_Score_Category,Age_Category
+A1,24,113562,27467,Employed,723,High,0.24,Excellent,Young
+A2,27,57696,35712,Self-Employed,762,Medium,0.62,Excellent,Young
+A3,28,84103,45416,Self-Employed,460,High,0.54,Poor,Young
+A4,62,109857,19475,Employed,586,High,0.18,Fair,Senior
+A5,24,93244,19969,Employed,652,High,0.21,Good,Young
+A6,58,127578,45906,Employed,782,Very High,0.36,Excellent,Middle-Aged
+A7,37,50591,34683,Self-Employed,469,Medium,0.69,Poor,Adult
+A8,63,72898,35316,Self-Employed,690,Medium,0.48,Good,Senior
+A9,38,46772,34331,Self-Employed,598,Medium,0.73,Fair,Adult
+A10,31,80020,47400,Unemployed,320,High,0.59,Poor,Adult
