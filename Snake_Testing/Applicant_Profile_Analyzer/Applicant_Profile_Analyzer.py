@@ -48,6 +48,7 @@ def generate_applicant_data(num_applicants):
     return pd.DataFrame(data)
 
 
+Whats good
 def calculate_summary_stats(df):
     summary = df.describe().transpose()
     print("Summary Statistics:\n", summary)
